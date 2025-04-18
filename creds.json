@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "tagmonitoring",
+    "private_key_id": "fa8139270fa83069239ef75ceeb363eef1808126",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCQQgfQQR9aJyO5\niHsr7g6tqrjUt35jyKr9MYE4JrMvAUkfKu/iwL5Ut+qw5ntam9RPPYU/zZQcIFE0\n7U5nOzIfxKQVPK4+lwK4gtthyAlnJps5utYfst31pO6didk3O4770P4msBgVVpqX\nl6evrPIUwm0jsk6qqL2vjrbUFwX2BGQV8LI2pL5Ves6xYUSMPucoiP43Q+6XK08S\njo7973Omt+0iANzPClawZG5B1NmPNCArTN2njnfQvHDHe5Fvgv52404wpqlVlLU4\nerICK2O7Sla+1ivdp8dTjiFsIyVAlY6KAtQMGD/Fq6qAuTnl/IbOLha/pR2Asb5w\nT34dsAdjAgMBAAECggEAFsq/9kjbvcAyVkV4hHvTyN+Q3VbyeqyBS4ivTGJc7B/N\nYEXF6fMe/z6hr3py4eF9/VkQfQCrlngKrIyT1x6UsE0+yXYxZ4UvclyGceALkEca\nvlfFLfPyOrXo124oqh/YWvPtu8oVvAVXXn0hCtIN23bOjJXG9RK9CYhIXaEXmYNi\nWWXQ8PZssco5SOMIQG765Hqxh1NF3QZfcQll776UkFQY/XGmeSBPc0zCqbIz4iuT\nzQUtq5HMiZ/eCrop7R8tiCzSubHNtYtYwmUjmq1ko2yUUdVtSPMqi8P9ZhrYe5Wt\nLeIbwAXr9eNIFKf8RJaw/PIGoKGihKTF5f+HE2/BiQKBgQDEcZI0CBHQ2eSfy+Vy\nZLCEIqLbwzLQ3cPch2DncOWdzc48KNrX9pjY82nXMiauaXi5HGXHBgsd2VmGUpb0\nmL7B5dARIjTQ5trp6PyI4AgvwV3l8alJFHxG4cUSYWRSQD/aoR6emUpCOzyxVGYR\nExGcUgIsB692gQoIH507RjZ8yQKBgQC7/jXdHQxafvaj6QYPKSUnwv6yfgkNM5gq\ngGDLuvZFefVEM3Fz2O5ICTJEuHWADRu9FNY8DmV4alDwDd1qD+NCxqRuFTGKt8H7\nhx+RgiOdkzdyI4D+EkEC5mSj1pwZC3stWa9+sFAGOTLCiR+AYWmvHtPTNwg6d74Z\nKmbA6HB0ywKBgQC5plt1sOqlZkcafaeqJF5tgg5HgoJTwkGH+KksERXvvMBbOoEX\n+IUbA2/TYCIOUr80shG9tYhr/S0ONJ9VKcWdmYK5rooboxDgXr/K227hMu16kphZ\n6HJKyrNkW4Zj9TRjekFlwZjcXv9M12ZeXJcYFKjY06qPZAQHCVme2wxDgQKBgBt+\nnYAeTH07znTAkvtKqD19fmS6nDZLEnk812tUh8o3gRCdeX1Y/9iXR7vXQpAc2q63\nynF0JZEL85R4Yqatdi6BAPF8tgc0wvE3nP1aDD1yl4xg9u+x2cJD0fpIXAIptLU4\nRbuAq+ONIAhlp67OEHflSVO92705YBssIWUbWb8rAoGBAI5YliCMXWQAYdujIycn\nwXt+vlQXSU8lFWowi5FY6j0+Oo2RUK3Beze5XYAjP/CmBxOA5bMjj8VycrVxcBrg\nkUn/rRe5MrpWXh+BTt66Q4D39rPX4EFO90Ta804JABcbxrPFlQPsYU1YXFeFOcvz\n9jDkcXj0VbstSGpS1xHUJ8xR\n-----END PRIVATE KEY-----\n",
+    "client_email": "tag-monitor-bot@tagmonitoring.iam.gserviceaccount.com",
+    "client_id": "105004670445687751863",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tag-monitor-bot%40tagmonitoring.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
